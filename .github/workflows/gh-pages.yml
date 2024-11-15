@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Or the branch you're working on
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-22.04
