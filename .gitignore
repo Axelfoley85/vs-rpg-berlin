@@ -1,0 +1,34 @@
+# Hugo output and temporary files
+/public/
+/resources/
+/hugo_stats.json
+
+# Generated assets, caches, and temporary directories
+/.hugo_build.lock
+/.cache/
+*.bak
+*.backup
+.DS_Store
+Thumbs.db
+
+# OS-specific files
+._*
+.Spotlight-V100
+.Trashes
+
+# Node.js dependencies (if using npm/yarn for CSS/JS assets)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Go dependencies if using modules (for Hugo Modules)
+go.sum
+go.mod
+
+# Optional: Ignore IDE/editor configuration files
+.vscode/
+.idea/
+*.swp
+
+# Optional: GitHub Pages (if using the gh-pages branch for deployment)
+/docs/
