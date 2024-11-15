@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "VS RPG Berlin"
+theme = "hugo-coder"
+
