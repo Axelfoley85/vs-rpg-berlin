@@ -1,4 +1,5 @@
 ---
+title: "ROLEPLAYING GAMES AT VOLKSSOLIDARITÄT BERLIN"
 description: "Table Top Roleplaying in Berlin"
 
 cascade:
