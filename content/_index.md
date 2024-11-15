@@ -20,4 +20,4 @@ Events are self-organized by members who contribute their free time and resource
 
 ## [Join Us](https://discord.gg/WGgBGrP8pd)
 
-![QR Code](images/VS_RPG_INV_QR.png)
+{{< figure src="/images/VS_RPG_INV_QR.png" alt="QR Code" width="200px" >}}
