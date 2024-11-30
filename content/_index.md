@@ -1,9 +1,9 @@
 ---
 title: "ROLEPLAYING GAMES AT VOLKSSOLIDARITÄT BERLIN"
-description: "Table Top Roleplaying in Berlin"
+description: "Tabletop Roleplaying in Berlin"
 
 cascade:
-    featured_image: '/images/DALLE_2024-11-15_VS_RPG_BERLIN_banner.png'
+    featured_image: '/images/roleplaying_in_berlin_banner.png'
 ---
 
 # VS RPG Berlin
@@ -24,4 +24,4 @@ Games are scheduled on our Discord server and mainly played in person at two dif
 
 [Discord invite link](https://discord.gg/WGgBGrP8pd)
 
-{{< figure src="/images/VS_RPG_INV_QR.png" alt="QR Code" width="200px" >}}
+{{< figure src="/images/roleplaying_in_Berlin_discord_invite_link_qr_code.png" alt="QR Code" width="200px" >}}

@@ -4,6 +4,11 @@ title = "VS RPG Berlin"
 theme = "ananke"
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
-  favicon = "/img/favicon.ico"
-  
+  description = "Tabletop Roleplaying in Berlin"
+  favicon = "img/favicon.ico"
