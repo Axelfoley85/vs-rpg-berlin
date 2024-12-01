@@ -1,6 +1,6 @@
 ---
-title: "ROLEPLAYING GAMES AT VOLKSSOLIDARITÄT BERLIN"
-description: "Tabletop Roleplaying in Berlin"
+title: "Tabletop Roleplaying in Berlin"
+description: "TTRPG at Volkssolidarität"
 
 cascade:
     featured_image: '/images/roleplaying_in_berlin_banner.png'
@@ -22,6 +22,6 @@ Events are self-organized by members who contribute their free time and resource
 
 Games are scheduled on our Discord server and mainly played in person at two different locations in Friedrichshain.
 
-[Discord invite link](https://discord.gg/WGgBGrP8pd)
+**[Join us on Discord](https://discord.gg/WGgBGrP8pd)**
 
 {{< figure src="/images/roleplaying_in_Berlin_discord_invite_link_qr_code.png" alt="QR Code" width="200px" >}}
