@@ -1,9 +1,9 @@
 ---
 title: "Tabletop Roleplaying in Berlin"
-description: "Finding and Hosting TTRPGs in a big community and venues of Volkssolidarität"
+description: "Finding and hosting TTRPGs in a big community and venues of Volkssolidarität"
 
 cascade:
-    featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.png'
+  featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.png'
 ---
 
 # VS RPG Berlin
@@ -17,11 +17,3 @@ We have varying degrees of experience and welcome DMs and players alike. Everyon
 ## Self-organized
 
 Events are self-organized by members who contribute their free time and resources. Volkssolidarität provides the location, but everyone is responsible for making the events fun and smooth-running. No financial profit is involved.
-
-## Organization via Discord
-
-Games are scheduled on our Discord server and mainly played in person at two different locations in Friedrichshain.
-
-**[Join us on Discord](https://discord.gg/WGgBGrP8pd)**
-
-{{< figure src="/images/Tabletop-Roleplaying-in-Berlin-discord-invite-link-qr-code.png" alt="QR Code" width="200px" >}}
