@@ -1,9 +1,9 @@
 ---
 title: "Tabletop Roleplaying in Berlin"
-description: "TTRPG at Volkssolidarität"
+description: "Finding and Hosting TTRPGs in a big community and venues of Volkssolidarität"
 
 cascade:
-    featured_image: '/images/roleplaying_in_berlin_banner.png'
+    featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.png'
 ---
 
 # VS RPG Berlin
@@ -24,4 +24,4 @@ Games are scheduled on our Discord server and mainly played in person at two dif
 
 **[Join us on Discord](https://discord.gg/WGgBGrP8pd)**
 
-{{< figure src="/images/roleplaying_in_Berlin_discord_invite_link_qr_code.png" alt="QR Code" width="200px" >}}
+{{< figure src="/images/Tabletop-Roleplaying-in-Berlin-discord-invite-link-qr-code.png" alt="QR Code" width="200px" >}}
