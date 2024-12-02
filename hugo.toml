@@ -13,3 +13,19 @@ enableRobotsTXT = true
 [params]
   description = "Tabletop Roleplaying in Berlin"
   favicon = "images/favicon.ico"
+
+[params.ananke.social.follow]
+new_window_icon = true
+networks = [
+  "discord"
+]
+
+[params.ananke.social.discord]
+profilelink = "https://discord.gg/WGgBGrP8pd"
+
+[[params.ananke.social.networks]]
+  slug = "discord"
+  label = "Discord"
+  color = "#7289d9"
+  profile = "https://discord.gg/%s"
+  icon = "discord" # font awesome brand icon name
