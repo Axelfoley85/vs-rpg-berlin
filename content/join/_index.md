@@ -6,7 +6,7 @@ menu:
     weight: 1
 
 cascade:
-  featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.png'
+  featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.webp'
 ---
 
 ## Organization via Discord
@@ -15,4 +15,4 @@ Games are scheduled on our Discord server and mainly played in person at two dif
 
 **[Join us on Discord](https://discord.gg/WGgBGrP8pd)**
 
-{{< figure src="../images/Tabletop-Roleplaying-in-Berlin-discord-invite-link-qr-code.png" alt="QR Code" width="200px" >}}
+{{< figure src="../images/Tabletop-Roleplaying-in-Berlin-discord-invite-link-qr-code.webp" alt="QR Code" width="200px" >}}

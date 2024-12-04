@@ -3,7 +3,7 @@ title: "Tabletop Roleplaying in Berlin"
 description: "Finding and hosting TTRPGs in a big community and venues of Volkssolidarität"
 
 cascade:
-  featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.png'
+  featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.webp'
 ---
 
 # VS RPG Berlin
