@@ -3,9 +3,6 @@ title: "Locations"
 menu:
   main:
     weight: 2
-
-cascade:
-  featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.webp'
 ---
 
 Most of our games happen here. This is where we have fixed time slots available. Some games happen at private homes or possibly other spaces.

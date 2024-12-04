@@ -4,9 +4,6 @@ description: ""
 menu:
   main:
     weight: 1
-
-cascade:
-  featured_image: '/images/Tabletop-Roleplaying-in-Berlin-banner.webp'
 ---
 
 ## Organization via Discord
